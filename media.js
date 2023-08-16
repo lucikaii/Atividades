@@ -10,6 +10,7 @@ const mediafinal = document.getElementById('media')
 function somarMedia(){
  const media = (bimUm + bimDois + bimTres + bimQuatro)/4
  mediafinal.textContent = media
+ 
 }
 
 
